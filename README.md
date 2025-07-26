@@ -2,6 +2,8 @@
 
 A Short Course on Business Forecasting (Hands-on and Project on Python)
 
+![Poster](https://github.com/ctanujit/Business_Forecasting/blob/main/Poster.png)
+
 This is a 5-day course on Business Forecasting for Business Professionals (also suitable for beginners) offered by Dr. Tanujit Chakraborty and Madhurima Panja at Sorbonne University Abu Dhabi. 
 
 Eligibility: Knowledge of Basic Statistics, Probability, and the Python programming language is expected. 
@@ -17,5 +19,3 @@ Day 3: ARIMA Model; (b) Seasonal ARIMA; (c) VAR Model.
 Day 4: (a) Autoregressive Neural Networks; (b) RNN; (c) LSTM for time series forecasting. 
 
 Day 5: Business Forecasting Projects and Presentations. 
-
-![Poster](https://github.com/ctanujit/Business_Forecasting/blob/main/Poster.png)
