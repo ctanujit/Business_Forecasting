@@ -14,7 +14,7 @@ Day 1: (a) Introduction to Business Forecasting; (b) Time Series Components, Tra
 
 Day 2: (a) Autocorrelation; (b) Exponential Smoothing; (c) Halt Winter Method. 
 
-Day 3: ARIMA Model; (b) Seasonal ARIMA; (c) VAR Model. 
+Day 3: (a) ARIMA Model; (b) Seasonal ARIMA; (c) VAR Model. 
 
 Day 4: (a) Autoregressive Neural Networks; (b) RNN; (c) LSTM for time series forecasting. 
 
